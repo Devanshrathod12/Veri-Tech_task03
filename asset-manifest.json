@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Veri-Tech_task03/static/css/main.aadbba93.css",
+    "main.js": "/Veri-Tech_task03/static/js/main.0e768231.js",
+    "static/js/453.4a285c4a.chunk.js": "/Veri-Tech_task03/static/js/453.4a285c4a.chunk.js",
+    "index.html": "/Veri-Tech_task03/index.html",
+    "main.aadbba93.css.map": "/Veri-Tech_task03/static/css/main.aadbba93.css.map",
+    "main.0e768231.js.map": "/Veri-Tech_task03/static/js/main.0e768231.js.map",
+    "453.4a285c4a.chunk.js.map": "/Veri-Tech_task03/static/js/453.4a285c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadbba93.css",
+    "static/js/main.0e768231.js"
+  ]
+}
